@@ -1,4 +1,4 @@
 # Repo2
 
-some text
+This is readme file
 
